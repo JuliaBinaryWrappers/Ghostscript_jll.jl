@@ -1,115 +1,115 @@
 [[Ghostscript]]
 arch = "aarch64"
-git-tree-sha1 = "8c197e1eec938e451711eb8b8186e8672ff179b3"
+git-tree-sha1 = "ed1a49a2f4c2799f569e53d6cf9c76543c8a20ba"
 libc = "glibc"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "efe2e040a345e3464a52d7778bc2d0f19476e37a40d645a95f9cb62ed85e05bf"
+    sha256 = "13ba314d7e298f658e99fa3b5d345c33b0dc36c994c66c1acb023e43a1d9af38"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.aarch64-linux-gnu.tar.gz"
 [[Ghostscript]]
 arch = "aarch64"
-git-tree-sha1 = "d8ec3bd53c10e71b931db8031f85bb83e09621d0"
+git-tree-sha1 = "d314a73dee53b0ccd5ec89d5da48cdcff26a814a"
 libc = "musl"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "a5f6fd0ab58ac3c7c1dc96161c0f1a1195a7de9134d86a763acc67551aea3570"
+    sha256 = "2e29c3ed2d69552e5cf3ea3e5004fefd65d7eeeb0e565f0b7f435ffd4a23aa45"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.aarch64-linux-musl.tar.gz"
 [[Ghostscript]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "93c9865c9ea6b70bfdbffec691c2675140386a5b"
+git-tree-sha1 = "6d6f3d7a4ae81c5bf8909fb3a6f6725193203cbb"
 libc = "glibc"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "0755fcea215e28dc98cdf79602c7f284d72d4a8b1f5d3ebec2b28c4699815415"
+    sha256 = "2dd01068d36ae0ae9ba6d5c6da56c16beea77e2149557a7dbabea18512144477"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.armv7l-linux-gnueabihf.tar.gz"
 [[Ghostscript]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7b66e8e699de242b4a723e85719b8900ab3a0cbf"
+git-tree-sha1 = "ef9c791366972110b64fb6472e8d8c4ca538dbd1"
 libc = "musl"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "d5b33d1a56f0ab8ac8136aa9c77890f9a4633206426c5e9533a7a469f4c2a385"
+    sha256 = "132aac23f74c7ee52d190fce262df0794ffc90fad91a077713f554399abe777b"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.armv7l-linux-musleabihf.tar.gz"
 [[Ghostscript]]
 arch = "i686"
-git-tree-sha1 = "4c2cb9f32c475f77316286ada6def33ac825b93b"
+git-tree-sha1 = "883f06c9bc0f1c377bb668ce1f6111277d7cea79"
 libc = "glibc"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "bf7bbb9a172bf299bbb9d4eb37888f721b357afa224f13850094766e208c74d0"
+    sha256 = "cf96693d2682db339b7b2e00219643dfeb525452a8ed0190468c95adae80e188"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.i686-linux-gnu.tar.gz"
 [[Ghostscript]]
 arch = "i686"
-git-tree-sha1 = "4fa44ecca0773d249094ccadc266dc62c28b2d23"
+git-tree-sha1 = "309add53c152a21fd4a4656d230434f267818328"
 libc = "musl"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "7216a4d32c1a2d406c29ce44d4af72c91b8005d164acade4d4d5d597b7e06d90"
+    sha256 = "74b38f7ef545c76507f2c15523198e8e484ad5428f3a9f7b863729e50a02b7c7"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.i686-linux-musl.tar.gz"
 [[Ghostscript]]
 arch = "i686"
-git-tree-sha1 = "e7ee9b6ecada3cd42ad2effef24811c17ce5eb81"
+git-tree-sha1 = "147572a68c8ed247db670a91c57ec4f34e2aed8b"
 os = "windows"
 
     [[Ghostscript.download]]
-    sha256 = "eee23572795fc0050028ce1f3764826e4cbe4b88720123b5e59bf157dd747723"
+    sha256 = "ff58edeed0ca6004b39d2f998cd2dc7383fb0f7cbce4a4552ebcbb846822d3c7"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.i686-w64-mingw32.tar.gz"
 [[Ghostscript]]
 arch = "powerpc64le"
-git-tree-sha1 = "45227add6c246a63fd424d8025fca41b2d86314d"
+git-tree-sha1 = "3af683d267174cc49fa9c6733306e8f93cceee37"
 libc = "glibc"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "a485ce758897e4605a3cb417d66216516e443f4bf147bce66cc80623f82aea39"
+    sha256 = "782bf94ce2e1809f4a89c4c9d70fbd559d9e457714ab1cf53f85beaa7c8bc376"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.powerpc64le-linux-gnu.tar.gz"
 [[Ghostscript]]
 arch = "x86_64"
-git-tree-sha1 = "c8fc8115f8420148aa15356220ac2f00f4a3b01d"
+git-tree-sha1 = "8292168b6e56d6598e8ba997417e10ffc77bdca9"
 os = "macos"
 
     [[Ghostscript.download]]
-    sha256 = "bdc4f842613040f36d7b62cba6f286153361c3ceb5101b0726ee8b56edec6505"
+    sha256 = "0c29c6ad51f6ad034ba6cfcf58a1ed441127db92d07c0a3c65668d4cb3c9685a"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.x86_64-apple-darwin.tar.gz"
 [[Ghostscript]]
 arch = "x86_64"
-git-tree-sha1 = "07e6922282c2383e4af10e1afb6ff8f910dd7c41"
+git-tree-sha1 = "c9fd2ce822167dc315c0e9c2aaa217d015662c0f"
 libc = "glibc"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "1fd8c3e2b6250770509239c423f048d7c95b48198efd8a12977b3a8b56314fc8"
+    sha256 = "a4e75e450dcce41ac9a34048aeb4dc25a5b04c962987b4a49d02519739392b4c"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.x86_64-linux-gnu.tar.gz"
 [[Ghostscript]]
 arch = "x86_64"
-git-tree-sha1 = "434e3e9ba69274fa7061009917b7593ac93c4766"
+git-tree-sha1 = "e663220f8a0489e1e8d52fe847fbc958db207d09"
 libc = "musl"
 os = "linux"
 
     [[Ghostscript.download]]
-    sha256 = "6d631c4bfb9147f24633a6195b0572366c290108f4503498d5fbff262c4b0403"
+    sha256 = "04fbcd92562e4a4e4fb90ed0c594b6b779c9f7127e982e08f84da9a067caaa1b"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.x86_64-linux-musl.tar.gz"
 [[Ghostscript]]
 arch = "x86_64"
-git-tree-sha1 = "8b9c9a24240a20e104fc4e2914e9bc230b59abe1"
+git-tree-sha1 = "d3f8769566d3c0dbdf8c9b1f7c8fd8c920bfe95a"
 os = "freebsd"
 
     [[Ghostscript.download]]
-    sha256 = "bc42ccc36028ae9e49e8e126bddfa44b8740b30905e1cfdc5a1672256d13ec5b"
+    sha256 = "f76e225b79af06f2196af34d404ee662637730e7dc9124378b81f82c93eda718"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.x86_64-unknown-freebsd.tar.gz"
 [[Ghostscript]]
 arch = "x86_64"
-git-tree-sha1 = "37123051ed789e9d38f63860cc43389bc3640cae"
+git-tree-sha1 = "de6c2695ec3295b20bea6fd528f954ae93eac3f3"
 os = "windows"
 
     [[Ghostscript.download]]
-    sha256 = "65dcc8c0f7be51b5babab4f96b5f098d036af77ea3e68f9e1484794a6d5e6fe6"
+    sha256 = "80a875dd3c4f970655bb56ea5ba2f22bb9575a3ee26ba9c5123a499a294d8019"
     url = "https://github.com/JuliaBinaryWrappers/Ghostscript_jll.jl/releases/download/Ghostscript-v9.53.3+0/Ghostscript.v9.53.3.x86_64-w64-mingw32.tar.gz"
