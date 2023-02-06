@@ -14,7 +14,7 @@ JLLWrappers.@declare_file_product(gslp)
 JLLWrappers.@declare_file_product(gsnd)
 JLLWrappers.@declare_file_product(iapi_h)
 JLLWrappers.@declare_file_product(ierrors_h)
-JLLWrappers.@declare_library_product(libgs, "libgs-9.dll")
+JLLWrappers.@declare_library_product(libgs, "libgs.dll")
 JLLWrappers.@declare_file_product(pdf2dsc)
 JLLWrappers.@declare_file_product(pdf2ps)
 JLLWrappers.@declare_file_product(pf2afm)
@@ -94,7 +94,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libgs,
-        "bin\\libgs-9.dll",
+        "bin\\libgs.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
